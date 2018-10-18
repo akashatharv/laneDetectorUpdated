@@ -1,6 +1,6 @@
 # Lane Detection
-[![Build Status](https://travis-ci.org/rishchou/laneDetector.svg?branch=master)](https://travis-ci.org/rishchou/laneDetector)
-[![Coverage Status](https://coveralls.io/repos/github/rishchou/laneDetector/badge.svg?branch=master)](https://coveralls.io/github/rishchou/laneDetector?branch=master)
+[![Build Status](https://travis-ci.org/akashatharv/laneDetectorUpdated.svg?branch=master)](https://travis-ci.org/akashatharv/laneDetectorUpdated)
+[![Coverage Status](https://coveralls.io/repos/github/akashatharv/laneDetectorUpdated/badge.svg?branch=master)](https://coveralls.io/github/akashatharv/laneDetectorUpdated?branch=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ---
 
