@@ -1,4 +1,4 @@
-# C++ Boilerplate
+# Lane Detection
 [![Build Status](https://travis-ci.org/rishchou/laneDetector.svg?branch=master)](https://travis-ci.org/rishchou/laneDetector)
 [![Coverage Status](https://coveralls.io/repos/github/rishchou/laneDetector/badge.svg?branch=master)](https://coveralls.io/github/rishchou/laneDetector?branch=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
